@@ -1,7 +1,7 @@
 GravityTetris
 =============
 
-GravityTetris - 慶應義塾大学SFC 2014年秋学期 オブジェクト指向プログラミング(Java) 
+GravityTetris (Java) 
 
 
 ## 無重力テトリス（重力テトリス）
